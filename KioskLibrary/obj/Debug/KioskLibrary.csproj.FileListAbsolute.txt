@@ -1,0 +1,17 @@
+C:\Users\SESA474351\Documents\Visual Studio 2017\TFS\Kiosk\Solution Kiosk\KioskLibrary\bin\KioskLibrary.dll
+C:\Users\SESA474351\Documents\Visual Studio 2017\TFS\Kiosk\Solution Kiosk\KioskLibrary\bin\KioskLibrary.pdb
+C:\Users\SESA474351\Documents\Visual Studio 2017\TFS\Kiosk\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.csprojResolveAssemblyReference.cache
+C:\Users\SESA474351\Documents\Visual Studio 2017\TFS\Kiosk\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SESA474351\Documents\Visual Studio 2017\TFS\Kiosk\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.dll
+C:\Users\SESA474351\Documents\Visual Studio 2017\TFS\Kiosk\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.pdb
+C:\Users\SESA474351\OneDrive - Schneider Electric\Attachments\Saves Kiosk\V4.0\V4.0.2\Solution Kiosk\KioskLibrary\bin\KioskLibrary.dll
+C:\Users\SESA474351\OneDrive - Schneider Electric\Attachments\Saves Kiosk\V4.0\V4.0.2\Solution Kiosk\KioskLibrary\bin\KioskLibrary.pdb
+C:\Users\SESA474351\OneDrive - Schneider Electric\Attachments\Saves Kiosk\V4.0\V4.0.2\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.csprojResolveAssemblyReference.cache
+C:\Users\SESA474351\OneDrive - Schneider Electric\Attachments\Saves Kiosk\V4.0\V4.0.2\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SESA474351\OneDrive - Schneider Electric\Attachments\Saves Kiosk\V4.0\V4.0.2\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.dll
+C:\Users\SESA474351\OneDrive - Schneider Electric\Attachments\Saves Kiosk\V4.0\V4.0.2\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.pdb
+C:\Users\SESA474351\Documents\Visual Studio 2012\tfs\Kiosk\Solution Kiosk\KioskLibrary\bin\KioskLibrary.dll
+C:\Users\SESA474351\Documents\Visual Studio 2012\tfs\Kiosk\Solution Kiosk\KioskLibrary\bin\KioskLibrary.pdb
+C:\Users\SESA474351\Documents\Visual Studio 2012\tfs\Kiosk\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SESA474351\Documents\Visual Studio 2012\tfs\Kiosk\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.dll
+C:\Users\SESA474351\Documents\Visual Studio 2012\tfs\Kiosk\Solution Kiosk\KioskLibrary\obj\Debug\KioskLibrary.pdb

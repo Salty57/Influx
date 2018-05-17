@@ -1,0 +1,6 @@
+C:\Users\Spyro\source\repos\Azure\KioskLibrary\bin\SynapseDll.dll
+C:\Users\Spyro\source\repos\Azure\KioskLibrary\bin\SynapseDll.pdb
+C:\Users\Spyro\source\repos\Azure\KioskLibrary\obj\Release\SynapseDll.csproj.CoreCompileInputs.cache
+C:\Users\Spyro\source\repos\Azure\KioskLibrary\obj\Release\SynapseDll.dll
+C:\Users\Spyro\source\repos\Azure\KioskLibrary\obj\Release\SynapseDll.pdb
+C:\Users\Spyro\source\repos\Azure\KioskLibrary\obj\Release\SynapseDll.csprojAssemblyReference.cache

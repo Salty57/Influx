@@ -1,0 +1,6 @@
+C:\Users\Spyro\source\repos\Influx\KioskLibrary\bin\SynapseDll.dll
+C:\Users\Spyro\source\repos\Influx\KioskLibrary\bin\SynapseDll.pdb
+C:\Users\Spyro\source\repos\Influx\KioskLibrary\obj\Debug\InfluxLibrary.csprojAssemblyReference.cache
+C:\Users\Spyro\source\repos\Influx\KioskLibrary\obj\Debug\InfluxLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Spyro\source\repos\Influx\KioskLibrary\obj\Debug\SynapseDll.dll
+C:\Users\Spyro\source\repos\Influx\KioskLibrary\obj\Debug\SynapseDll.pdb
